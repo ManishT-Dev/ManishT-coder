@@ -72,8 +72,8 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManishT-coder&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishT-coder&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ManishT-Dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishT-Dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
