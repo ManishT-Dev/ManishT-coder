@@ -1,28 +1,37 @@
 <div align="center">
 
-# Hi, I'm Manish Tigaya
+  <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 55%, #312e81 100%); border-radius: 14px; padding: 44px 28px 42px; box-shadow: 0 24px 60px rgba(0,0,0,0.30); text-align: center;">
 
-### 🎓 IT Student  |  🌐 Web Developer
+    <table align="center" style="margin: 0 auto;">
+      <tr>
+        <td align="center">
+          <div style="width: 132px; height: 132px; border-radius: 50%; background: linear-gradient(135deg, #38bdf8, #a78bfa); display: flex; align-items: center; justify-content: center; color: #ffffff; font-family: 'Segoe UI', Roboto, Arial, sans-serif; font-size: 50px; font-weight: 700; box-shadow: 0 12px 28px rgba(56, 189, 248, 0.45); user-select: none; border: 4px solid #1e293b;">
+            MT
+          </div>
+        </td>
+      </tr>
+    </table>
 
-<br/>
+    <h1 style="background: linear-gradient(135deg, #38bdf8, #a78bfa); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: transparent; font-family: 'Segoe UI', Roboto, Arial, sans-serif; font-size: 40px; font-weight: 800; letter-spacing: -1px; margin: 14px 0 8px;">
+      Manish Tigaya
+    </h1>
 
-<table>
-  <tr>
-    <td align="center">
-      <div style="width: 120px; height: 120px; border-radius: 50%; background: linear-gradient(135deg, #2563eb, #7c3aed); display: flex; align-items: center; justify-content: center; color: #ffffff; font-family: 'Segoe UI', Roboto, Arial, sans-serif; font-size: 42px; font-weight: 700; box-shadow: 0 6px 16px rgba(37, 99, 235, 0.30); user-select: none;">MT</div>
-    </td>
-  </tr>
-</table>
+    <p style="color: #94a3b8; font-size: 18px; font-weight: 500; margin: 0 0 10px;">
+      🎓 IT Student  |  🌐 Web Developer
+    </p>
 
-<p align="center">
-  <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&color=2196F3&center=true&vCenter=true&width=750&lines=IT+Student%2C+Web+Developer%2C+Building+Projects" />
-</p>
+    <p style="color: #cbd5e1; font-size: 15px; max-width: 480px; margin: 0 auto 14px; line-height: 1.6;">
+      I build for curiosity, I learn by doing, and I keep shipping.
+    </p>
 
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ManishT-Dev&label=Profile%20Views&color=2196F3&style=flat" />
-</p>
+    <p align="center" style="margin: 6px 0 16px; color: #e2e8f0;">
+      <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&color=38bdf8&center=true&vCenter=true&width=750&lines=IT+Student%2C+Web+Developer%2C+Building+Projects" />
+    </p>
+  </div>
 
-<br/>
+  <p align="center" style="color: #94a3b8; margin-top: 18px; font-size: 14px;">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ManishT-Dev&label=Profile%20Views&color=38bdf8&style=flat" />
+  </p>
 
 </div>
 
