@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ManishT-coder&label=Profile%20Views&color=2196F3&style=flat" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ManishT-Dev&label=Profile%20Views&color=2196F3&style=flat" />
 </p>
 
 <br/>
@@ -113,7 +113,7 @@
 
 - 💼 **LinkedIn:** [Manish Tigaya](https://www.linkedin.com/in/manish-tigaya-a678992a7)
 - 🏙 **Location:** India 🇮🇳
-- 💻 **GitHub:** [@ManishT-coder](https://github.com/ManishT-coder)
+- 💻 **GitHub:** [@ManishT-Dev](https://github.com/ManishT-Dev)
 
 ---
 
