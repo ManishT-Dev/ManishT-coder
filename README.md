@@ -32,6 +32,12 @@
 
 > I'm an IT student exploring web and Android development. I enjoy building projects, learning new technologies, and turning ideas into working applications. I'm currently gaining hands-on experience through an internship and steadily improving my skills.
 
+<p align="center">
+  <blockquote style="border-left: 4px solid #2563eb; background: #f8fafc; padding: 12px 18px; border-radius: 6px; font-style: italic;">
+    "I build for curiosity, I learn by doing, and I keep shipping."
+  </blockquote>
+</p>
+
 ---
 
 ## 💻 Tech Stack
@@ -60,6 +66,15 @@
 
 ---
 
+## 🗺️ Learning Roadmap
+
+- **Fundamentals** — Strengthen logic and problem-solving with C++ and Python
+- **Backend** — Build reliable APIs and services with Spring Boot
+- **Android** — Create modern apps with Jetpack Compose
+- **Portfolio** — Ship real projects and keep improving
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -78,9 +93,9 @@
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-- 📱 **Android Apps** — Built with Jetpack Compose while learning and practicing modern Android development.
+- 📱 **Android Apps (Jetpack Compose)** — Simple, clean Android apps built while learning and practicing modern Android development.
 - 🎓 **Student–Teacher Management System** — A CLI-based system for managing student and teacher records.
 - 🌐 **Website Projects** — Simple projects built with HTML, CSS, JavaScript, and PHP.
 
