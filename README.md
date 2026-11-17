@@ -1,16 +1,36 @@
+<div align="center">
+
+# Hi, I'm Manish Tigaya
+
+### 🎓 IT Student  |  🌐 Web Developer
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <div style="width: 120px; height: 120px; border-radius: 50%; background: linear-gradient(135deg, #2563eb, #7c3aed); display: flex; align-items: center; justify-content: center; color: #ffffff; font-family: 'Segoe UI', Roboto, Arial, sans-serif; font-size: 42px; font-weight: 700; box-shadow: 0 6px 16px rgba(37, 99, 235, 0.30); user-select: none;">MT</div>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi!+I'm+Manish+Tigaya;IT+Student" />
+  <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&color=2196F3&center=true&vCenter=true&width=750&lines=IT+Student%2C+Web+Developer%2C+Building+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManishT-coder&label=Profile%20Views&color=2196F3&style=flat" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ManishT-coder&label=Profile%20Views&color=2196F3&style=flat" />
 </p>
 
-# 👋 I'm Manish Tigaya
-### 🎓IT Student | 🌐 Web Developer |
+<br/>
 
-> I’m learning and building projects in Android and Web Development.  
-> Currently doing an internship and improving my skills step by step.
+</div>
+
+---
+
+## About Me
+
+> I'm an IT student exploring web and Android development. I enjoy building projects, learning new technologies, and turning ideas into working applications. I'm currently gaining hands-on experience through an internship and steadily improving my skills.
 
 ---
 
@@ -25,57 +45,63 @@
 ### 🌐 Web & Programming
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+- 🟢 **Spring Boot** — Backend development with Java
+- 🐍 **Python** — Scripting, automation & data
+- 🐘 **PHP** — Backend & web development
+- ++C++++ — Data structures & problem solving
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-5yqiwz58g.vercel.app/api?username=ManishT-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats-5yqiwz58g.vercel.app/api/top-langs/?username=ManishT-coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-5yqiwz58g.vercel.app/api?username=ManishT-coder&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-5yqiwz58g.vercel.app/api/top-langs/?username=ManishT-coder&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
-
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManishT-coder&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishT-coder&theme=tokyo-night&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ManishT-coder&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishT-coder&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Projects (Simple)
-- 📱 Android Apps using Jetpack Compose (Learning + Practice)
-- 🎓 Student–Teacher Management System (CLI)
-- 🌐 Simple Website Projects using HTML/CSS/JS + PHP
+## 📌 Projects
+
+- 📱 **Android Apps** — Built with Jetpack Compose while learning and practicing modern Android development.
+- 🎓 **Student–Teacher Management System** — A CLI-based system for managing student and teacher records.
+- 🌐 **Website Projects** — Simple projects built with HTML, CSS, JavaScript, and PHP.
 
 ---
 
 ## 🎯 My Goals
-- Improve Android development step by step
-- Learn Spring Boot backend properly
-- Practice DSA / logic with C++ and Python
+
+- Strengthen Android development through consistent practice and real projects.
+- Learn backend development properly with Spring Boot.
+- Improve problem-solving skills by practicing DSA with C++ and Python.
 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: [Manish Tigaya](https://www.linkedin.com/in/manish-tigaya-a678992a7)
-- 📍 India 🇮🇳
+
+- 💼 **LinkedIn:** [Manish Tigaya](https://www.linkedin.com/in/manish-tigaya-a678992a7)
+- 🏙 **Location:** India 🇮🇳
+- 💻 **GitHub:** [@ManishT-coder](https://github.com/ManishT-coder)
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by Manish Tigaya</sub>
+</p>
