@@ -89,4 +89,4 @@
 
 ---
 
-~Made with ❤️ by Manish Tigaya~
+Made with ❤️ by Manish Tigaya~
